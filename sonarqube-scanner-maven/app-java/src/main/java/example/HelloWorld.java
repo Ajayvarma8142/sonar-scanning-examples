@@ -6,8 +6,6 @@ public class HelloWorld {
     System.out.println("coveredByUnitTest1");
     System.out.println("coveredByUnitTest2");
   }
-  if{
-  }
 
   public void coveredByIntegrationTest() {
     System.out.println("coveredByIntegrationTest1");
